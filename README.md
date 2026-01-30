@@ -41,11 +41,3 @@ DevBills é meu projeto mais completo até agora, desenvolvido para gestão de c
 
 - Segurança reforçada com autenticação e validação de dados
 
-## Como Rodar o Projeto  
-
-### Pré-requisitos  
-
-- Node.js instalado  
-
-- Configurar variáveis de ambiente para Firebase, banco de dados e outras chaves
-
